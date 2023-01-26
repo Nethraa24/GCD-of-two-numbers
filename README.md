@@ -35,7 +35,8 @@ RegisterNumber:
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/121215786/214827691-67a05a0d-2fe1-45e6-b093-807166e161fa.png)
+![image](https://user-images.githubusercontent.com/121215786/214828162-8a934a45-4166-4abb-b492-da21545c21a8.png)
+
 
 
 
