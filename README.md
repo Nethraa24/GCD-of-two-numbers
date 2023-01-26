@@ -29,7 +29,7 @@ def gcd():
         if a%i==0 and b%i==0:
             gcd=i
     print('GCD of two numbers is:',gcd)
-*/
+
 ```
 
 ## Output:
