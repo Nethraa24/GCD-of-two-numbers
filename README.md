@@ -15,27 +15,25 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-def gcd():
-    n1=int(input())
-    n2=int(input())
-    if n1>n2:
-        smaller=n2
-    else:
-        smaller=n1
-    for i in range(1,smaller):
-     if(n1%i==0 and n2%i==0):
-         gcd=i
-    print("GCD of two numbers is:",gcd)
-```
-/*
+
 Program to find the gcd of two number using function.
-Developed by: 
-RegisterNumber:  
+#Developed by: J.NETHRAA
+#RegisterNumber:  22006789
+def gcd():
+    a,b=int(input()),int(input())
+    if a>b:
+        min=a
+    else:
+        min=b
+    for i in range(1,min+1):
+        if a%i==0 and b%i==0:
+            gcd=i
+    print('GCD of two numbers is:',gcd)
 */
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/121215786/214828498-08db2ee6-c09f-4e4f-8402-6cfa2a48c836.png)
+![image](https://user-images.githubusercontent.com/121215786/214863621-c980de9c-ab6d-492e-94ee-ea26fff622d1.png)
 
 
 
